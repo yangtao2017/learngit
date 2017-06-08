@@ -6,4 +6,7 @@ haha
 hehe
 Creating a new branch is quick and simple.
 1、--no-ff 方式的 git merge
+
 2、我在 dev branch 正干着活呢
+
+3、修复bug102
